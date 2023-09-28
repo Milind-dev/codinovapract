@@ -1,0 +1,15 @@
+.box{
+    color:#415B82;
+    height: auto;
+}
+.box > div{
+    display: flex;
+    justify-content: space-between;
+    width: 45%;
+    margin: 2vh 54vh;
+    padding: 1vh;
+    border-bottom: 1px solid black;
+}
+.exchangeTrade{
+    color:#D0D8E5
+}
