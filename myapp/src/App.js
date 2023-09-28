@@ -7,6 +7,8 @@ function App() {
      <CryptoExchange />
     </div>
   );
+
+  
 }
 
 export default App;
